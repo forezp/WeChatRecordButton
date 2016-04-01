@@ -5,6 +5,14 @@ A recordingButton  like WeChat ,the recording file is mp3 generate by lame-3.98.
 因为项目需要，这个Buton 的录音为amr文件，ios 4.3以后播放不了。
 所以采用了lame库，安卓录的为mp3，ios也可以播放。
 
+上图
+--------
+
+<img src="screenshots/1.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/2.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/3.jpg" height="400" alt-"Screenshot"/>
+ 
+
 ##  使用方法
 
  mAudioRecorderButton = (AudioRecorderButton) findViewById(R.id.id_recorder_button);
